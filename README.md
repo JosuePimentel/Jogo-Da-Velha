@@ -1,2 +1,8 @@
-# Jogo-Da-Velha
-Jogo da velha em C
+# Jogo Da Velha
+<img>
+
+## Features
+* 🔌 C
+
+## Pq?
+* Jogo feito como prática em C.
