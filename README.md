@@ -1,8 +1,11 @@
 # Jogo Da Velha
-<img>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## Features
-* 🔌 C
+![image](https://github.com/user-attachments/assets/588eca9c-ec42-43d3-aeca-2820cf9bbbc6)
 
-## Pq?
-* Jogo feito como prática em C.
+## 📑 Descrição
+Jogo Da Velha feito em c, para treinar a linguagem.
+
+## 🔨 Créditos
+[![Blog](https://img.shields.io/badge/JosuePimentel-444?logo=github&style=for-the-badge&url=https://github.com/JosuePimentel)](https://github.com/JosuePimentel)
+
